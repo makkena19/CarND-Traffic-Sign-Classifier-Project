@@ -94,4 +94,9 @@ My final model results were:
 I have taken 12 German traffic signs that I found on the web and Accuracy of detection is 75%.
 Code and its results can be found in 28 cell.
 
+####2.Top 5 Softmax output.
+Printed out the top 5 softmax outputs in 34 code cell, With Probablity values We can see why the pridicted images were wrongly predicted in the new images.
+
+Final conclusion:
+Newly images are predicted closly with th trained data test accuracy data.
 Analyzing the data it looks like I have to more analysis of the training set which causes the errors in the New Images.
