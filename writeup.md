@@ -84,14 +84,14 @@ The code for calculating the accuracy of the model is located in the 13 cell of 
 
 My final model results were:
 * training set accuracy of : 99.5
-* validation set accuracy of : 88.2
-* test set accuracy of : 89
+* validation set accuracy of : 94.5
+* test set accuracy of : 92.5
 
 ###Test a Model on New Images
 
 ####1. Please find the my observations with test images took from German traffic signs.
 
-I have taken 12 German traffic signs that I found on the web and Accuracy of detection is 75%.
+I have taken 12 German traffic signs that I found on the web and Accuracy of detection is 92%.
 Code and its results can be found in 28 cell.
 
 ####2.Top 5 Softmax output.
